@@ -47,7 +47,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data.cs" />
+    <Compile Include="Email.cs" />
+    <Compile Include="Identity.cs" />
+    <Compile Include="IdentityAdmin.cs" />
+    <Compile Include="IdentityContainer.cs" />
+    <Compile Include="IdentityName.cs" />
     <Compile Include="IIIQClient.cs" />
+    <Compile Include="IIQClient.cs" />
+    <Compile Include="Meta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

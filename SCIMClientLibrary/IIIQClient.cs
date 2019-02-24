@@ -13,5 +13,7 @@ namespace SCIMClientLibrary
          RestRequest Request(string path, Method method);
          IRestResponse Response(RestRequest request);
          HttpStatusCode Login();
+       
+
     }
 }
