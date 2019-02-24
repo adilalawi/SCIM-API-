@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SCIMClientLibrary
 {
-    public class Class1
+    interface IIIQClient
     {
     }
 }
